@@ -1,9 +1,9 @@
-#React Native Styled Buttons
+# React Native Styled Buttons
 
 This buttons serve the purpose of having the native looks of different buttons on React Native
 
 
-##How to Use
+## How to Use
 
 You can use any of the available buttons
 1. Btn: Normal Button
@@ -22,13 +22,13 @@ import Btn from './Buttons/Btn
 <Btn text={'Hello Btn'} theme={'info'} />
 
 
-#Props
+# Props
 
 You can set your desired props for the buttons
 
 padding, width, marginTop,marginBottom, marginLeft, marginRight, color, fontSize,...
 
-###Theme Color
+### Theme Color
 
 There are 9 different color themes,
 
